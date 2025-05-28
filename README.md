@@ -1,4 +1,4 @@
-CNN-Accelerator-for-Image-Spatial-Filter
+CNN Accelerator IP for Image Filtering on FPGA
 
 Deliverables-->The main idea of this project is to implement image spatial filtering or image processing using 5 x 5 kernel on a Zynq ZedBoard FPGA.
 It involves multiple stages, from module development to simulation and generating the output image using Vitis SDK
