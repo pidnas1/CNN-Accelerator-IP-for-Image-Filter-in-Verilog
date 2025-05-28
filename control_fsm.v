@@ -152,9 +152,7 @@ begin
         default: begin 
            o_pixel_data =  {lb3data,lb2data,lb1data,lb0data,lb5data};
         end
-        // when i gave default o_pixel_data=200'b0; it shows black lines strips throught in image
-        // when i gave default o_pixel_data=200'b1; it shows white lines dtrips throught  in image
-     endcase
+    endcase
 end
 
 always @(*)
