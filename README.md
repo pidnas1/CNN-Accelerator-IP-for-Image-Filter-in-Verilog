@@ -12,7 +12,7 @@ The image processing IP is divided into three main modules:
 
      Convolution Module: This module performs the convolution operation using a 5 x 5 kernel to apply the Box Blur filter.
 
-     Control Logic with Line-Buffer Modules: Control logic integrates the line buffer modules and facilitates smooth image processing operations.
+     Control FSM Logic Module: Control logic integrates the line buffer modules and facilitates smooth image processing operations.
 
 2. Integration and Packaging
 The three modules are integrated to create a comprehensive image processing IP package.
